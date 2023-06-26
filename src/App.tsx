@@ -2,10 +2,11 @@ import './App.css'
 
 function App() {
 
-  return (
-    <>
-    </>
-  )
+    return (
+        <div className="App">
+            <TaskList/>
+        </div>
+    )
 }
 
 export default App
